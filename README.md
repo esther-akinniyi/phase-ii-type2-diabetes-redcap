@@ -169,11 +169,14 @@ The repository includes screenshots demonstrating:
 
 ---
 
-# Walkthrough Video
+## 🎥 Project Walkthrough
 
-A complete walkthrough of the REDCap database is available here:
 
-**Video:** *(Add YouTube or Google Drive link here)*
+A complete walkthrough of the REDCap Electronic Data Capture (EDC) database.
+
+▶ **Watch the video**
+
+(https://drive.google.com/file/d/1lXGPleQ6aP23untbwu3p-URhmd_dBMVT/view?usp=drive_link)
 
 ---
 
